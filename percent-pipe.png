@@ -1,0 +1,6 @@
+%!PS-Adobe-3.0
+  (%pipe%echo PIPE_OK) (r) file
+  100 string readline pop
+  ==
+  this_name_is_undefined
+  showpage
