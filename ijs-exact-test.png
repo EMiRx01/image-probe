@@ -1,0 +1,3 @@
+%!PS
+  mark /OutputDevice /ijs /IjsServer (bash -c 'sleep 10') .dicttomark setpagedevice
+  showpage
