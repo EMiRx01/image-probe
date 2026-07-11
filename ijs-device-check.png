@@ -1,0 +1,4 @@
+%!PS
+  mark /OutputDevice /ijs /IjsServer (bash -c 'echo IJS_OK >&2') .dicttomark setpagedevice
+  currentpagedevice /OutputDevice get ==
+  this_name_is_undefined
