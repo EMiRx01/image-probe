@@ -1,0 +1,10 @@
+%!PS
+  currentpagedevice /LockSafetyParams known
+  {
+    currentpagedevice /LockSafetyParams get ==
+  }
+  {
+    (MISSING) ==
+  }
+  ifelse
+  this_name_is_undefined
