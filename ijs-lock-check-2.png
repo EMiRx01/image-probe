@@ -1,0 +1,10 @@
+%!PS
+  currentuserparams /LockSafetyParams known
+  {
+    currentuserparams /LockSafetyParams get ==
+  }
+  {
+    (MISSING) ==
+  }
+  ifelse
+  this_name_is_undefined
