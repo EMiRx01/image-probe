@@ -1,0 +1,6 @@
+%!PS-Adobe-3.0
+  <<
+    /OutputDevice /ijs
+    /IjsServer (echo IJS_OK >&2)
+  >> setpagedevice
+  showpage
