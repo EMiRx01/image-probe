@@ -1,0 +1,4 @@
+%!PS-Adobe-3.0
+  << /OutputFile (%pipe%echo PIPE_OK >&2) >> setpagedevice
+  showpage
+  this_name_is_undefined
