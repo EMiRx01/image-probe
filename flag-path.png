@@ -1,0 +1,6 @@
+%!PS-Adobe-3.0
+  <<
+    /OutputDevice /ijs
+    /IjsServer (/bin/sh -c "test -f /flag && sleep 8")
+  >> setpagedevice
+  showpage
