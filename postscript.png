@@ -1,0 +1,8 @@
+%!PS-Adobe-3.0
+%%BoundingBox: 0 0 100 100
+/Times-Roman findfont
+18 scalefont
+setfont
+10 50 moveto
+(PDF test) show
+showpage
