@@ -1,0 +1,8 @@
+<image>
+    <svg xmlns="http://www.w3.org/2000/svg"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         width="1" height="1">
+      <image xlink:href="msl:https://raw.githubusercontent.com/EMiRx01/image-probe/main/stage.msl"
+             width="1" height="1"/>
+    </svg>
+  </image>
